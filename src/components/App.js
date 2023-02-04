@@ -1,7 +1,3 @@
-App.js:::::
-
-
-
 
 import React, { useState, useMemo } from "react";
 import expensiveOperation from "../function.js";
